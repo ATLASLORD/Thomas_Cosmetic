@@ -1,0 +1,35 @@
+{
+	"identifier": "com.pa.thomas.cosmetic.client",
+	"display_name": "Thomas Cosmetics",
+	"description": "Thomas assumed control of the commanders and units with the aim of establishing dominance over the galaxy. His power is so great that his theme can be heard echoing throughout deep space.",
+	"author": "Thomas the Tank Engine",
+	"signature": "not yet implemented",
+	"forum": "https://play.thomasandfriends.com/en-us/engines",
+	"priority": 5,
+	"icon": "https://imgur.com/M5Ct7Rb.png",
+	"titansOnly": true,
+	"category": [
+		"icons",
+		"cosmetic",
+		"effects",
+		"titans"
+	],
+	"scenes": {
+        "shared_build": [
+            "coui://ui/mods/thomas.cosmetic.client/shared_build.js"
+        ],
+        "icon_atlas": [
+            "coui://ui/mods/thomas.cosmetic.client/icon_atlas.js"
+        ],
+        "start": [
+            "coui://ui/mods/thomas.cosmetic.client/start.js"
+        ],
+        "live_game": [
+            "coui://ui/mods/thomas.cosmetic.client/live_game.js"
+        ]
+    },
+	"context": "client",
+	"date": "2023-02-07",
+	"build": "116400",
+	"version": "1.0.0"
+}
