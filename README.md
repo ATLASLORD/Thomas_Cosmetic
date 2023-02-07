@@ -5,9 +5,8 @@ This Mod does :
 - add Thomas the Tank as a selectable commander
 - add Thomas's head to each one of the 80 commanders (except for the unicorn)
 - add Thomas's head to each one of every units (even energy plants)
-- replaces commander icon by e clear and concise marvelous icon of Thomas face in good shape
-- replaces PA soundtracks by Thomas The Tank Engine Theme sounds
-
+- replace commander icon by e clear and concise marvelous icon of Thomas face in good shape
+- replace PA soundtracks by Thomas The Tank Engine Theme sounds
 
 <img style="vertical-align:top" src="https://user-images.githubusercontent.com/104906253/217198604-22273b48-608e-442c-9370-727247128206.jpg" width="520">  
 
