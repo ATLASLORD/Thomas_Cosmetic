@@ -1,12 +1,12 @@
 {
 	"identifier": "com.pa.thomas.cosmetic.client",
-	"display_name": "Thomas Cosmetics",
+	"display_name": "Thomas the Tank Engine Cosmetics",
 	"description": "Thomas assumed control of the commanders and units with the aim of establishing dominance over the galaxy. His power is so great that his theme can be heard echoing throughout deep space.",
 	"author": "Thomas the Tank Engine",
 	"signature": "not yet implemented",
 	"download": "https://github.com/ATLASLORD/Thomas_Cosmetic/archive/refs/heads/main.zip",
 	"forum": "https://github.com/ATLASLORD/Thomas_Cosmetic",
-	"icon": "https://imgur.com/zyVQVKy.png",
+	"icon": "https://imgur.com/GbeP34F.png",
 	"priority": 5,
 	"category": [
 		"icons",
@@ -31,5 +31,5 @@
 	"context": "client",
 	"date": "2023-02-07",
 	"build": "116400",
-	"version": "1.0.2"
+	"version": "1.0.3"
 }
