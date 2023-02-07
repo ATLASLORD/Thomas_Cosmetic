@@ -6,7 +6,7 @@
 	"signature": "not yet implemented",
 	"download": "https://github.com/ATLASLORD/Thomas_Cosmetic/archive/refs/heads/main.zip",
 	"forum": "https://github.com/ATLASLORD/Thomas_Cosmetic",
-	"icon": "https://imgur.com/M5Ct7Rb.png",
+	"icon": "https://imgur.com/zyVQVKy.png",
 	"category": [
 		"icons",
 		"cosmetic",
@@ -30,5 +30,5 @@
 	"context": "client",
 	"date": "2023-02-07",
 	"build": "116400",
-	"version": "1.0.1"
+	"version": "1.0.2"
 }
