@@ -8,6 +8,12 @@ This Mod does :
 - replaces commander icon by e clear and concise marvelous icon of Thomas face in good shape
 - replaces PA soundtracks by Thomas The Tank Engine Theme sounds
 
+This client mod will only appear on your side when you join other games, so as to not disrupt the experience of other players.  
+You can now experience the excellence of Thomas without the need to host games.  
+As new custom commanders cannot be loaded on client mods, the Aeson disabled commander had to retire.  
+Its long-standing service had reached its end...
+Its legacy will be carried on by Thomas, who will honor its memory in battles to come.  
+
 <img style="vertical-align:top" src="https://user-images.githubusercontent.com/104906253/217198604-22273b48-608e-442c-9370-727247128206.jpg" width="640">  
 
 Thomas roars through space,  
