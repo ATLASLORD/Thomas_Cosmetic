@@ -4,10 +4,9 @@
 	"description": "Thomas assumed control of the commanders and units with the aim of establishing dominance over the galaxy. His power is so great that his theme can be heard echoing throughout deep space.",
 	"author": "Thomas the Tank Engine",
 	"signature": "not yet implemented",
-	"forum": "https://play.thomasandfriends.com/en-us/engines",
-	"priority": 5,
+	"download": "https://github.com/ATLASLORD/Thomas_Cosmetic/archive/refs/heads/main.zip",
+	"forum": "https://github.com/ATLASLORD/Thomas_Cosmetic",
 	"icon": "https://imgur.com/M5Ct7Rb.png",
-	"titansOnly": true,
 	"category": [
 		"icons",
 		"cosmetic",
@@ -31,5 +30,5 @@
 	"context": "client",
 	"date": "2023-02-07",
 	"build": "116400",
-	"version": "1.0.0"
+	"version": "1.0.1"
 }
