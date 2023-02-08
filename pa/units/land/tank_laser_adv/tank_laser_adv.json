@@ -44,7 +44,7 @@
 "fx_offsets":[{"bone": "socket_leftMuzzle",
 "filename":"/pa/units/land/assault_bot_adv/bot_adv_head.pfx",
 "offset": [
--1,0.5,-0.5],
+-0.7,6,-0.5],
 "orientation": [0,
 10,
 0],
