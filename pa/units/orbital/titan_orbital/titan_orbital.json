@@ -91,7 +91,7 @@
 {"bone": "bone_rotatorTop",
 "filename":"/pa/units/orbital/titan_orbital/titan_orbital_head_lovin.pfx",
 "offset": [
-0,0,0],
+0,0,0.2],
 "orientation": [0,
 0,
 0],
