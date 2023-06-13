@@ -3,7 +3,7 @@
 "description":"!LOC:Fighter - Fast. High damage. Only attacks air targets.",
 "max_health":120,
 "build_metal_cost":220,
-"unit_types":["UNITTYPE_Fighter",
+"unit_types":["UNITTYPE_Custom58","UNITTYPE_Fighter",
 "UNITTYPE_Air",
 "UNITTYPE_Mobile",
 "UNITTYPE_Offense",

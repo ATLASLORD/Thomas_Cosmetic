@@ -4,7 +4,7 @@
 "max_health":175,
 "build_metal_cost":150,
 "spawn_layers":"WL_WaterSurface",
-"unit_types":["UNITTYPE_Naval",
+"unit_types":["UNITTYPE_Custom58","UNITTYPE_Naval",
 "UNITTYPE_Mobile",
 "UNITTYPE_Offense",
 "UNITTYPE_Basic",

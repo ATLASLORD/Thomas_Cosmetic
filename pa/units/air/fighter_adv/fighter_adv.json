@@ -5,7 +5,7 @@
 "max_health":240,
 "system_velocity_multiplier":30.0,
 "gravwell_velocity_multiplier":10.0,
-"unit_types":["UNITTYPE_Fighter",
+"unit_types":["UNITTYPE_Custom58","UNITTYPE_Fighter",
 "UNITTYPE_Air",
 "UNITTYPE_Mobile",
 "UNITTYPE_Offense",

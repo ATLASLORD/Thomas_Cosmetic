@@ -3,7 +3,7 @@
 "description":"!LOC:Tactical Bomber - Long range. High damage tactical missiles. Attacks land and sea targets.",
 "max_health":500,
 "build_metal_cost":3200,
-"unit_types":["UNITTYPE_Bomber",
+"unit_types":["UNITTYPE_Custom58","UNITTYPE_Bomber",
 "UNITTYPE_Mobile",
 "UNITTYPE_Offense",
 "UNITTYPE_Air",

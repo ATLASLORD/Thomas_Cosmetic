@@ -7,7 +7,7 @@
 "atrophy_cool_down":15.0,
 "wreckage_health_frac":0.5,
 "has_death_effects":true,
-"unit_types":["UNITTYPE_Bomber",
+"unit_types":["UNITTYPE_Custom58","UNITTYPE_Bomber",
 "UNITTYPE_Mobile",
 "UNITTYPE_Offense",
 "UNITTYPE_Air",

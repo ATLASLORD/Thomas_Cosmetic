@@ -9,7 +9,7 @@
 "head":[0,
 -0.5,
 6.1]}},
-"unit_types":["UNITTYPE_Tank",
+"unit_types":["UNITTYPE_Custom58","UNITTYPE_Tank",
 "UNITTYPE_Heavy",
 "UNITTYPE_Mobile",
 "UNITTYPE_Offense",

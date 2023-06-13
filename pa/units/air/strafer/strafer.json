@@ -3,7 +3,7 @@
 "description":"!LOC:Strafer Aircraft - Loud and annoying. Attacks land and sea targets.",
 "max_health":1250,
 "build_metal_cost":1800,
-"unit_types":["UNITTYPE_Gunship",
+"unit_types":["UNITTYPE_Custom58","UNITTYPE_Gunship",
 "UNITTYPE_Mobile",
 "UNITTYPE_Offense",
 "UNITTYPE_Air",

@@ -3,7 +3,7 @@
 "description":"!LOC:Carpet Bomber - High damage over a wide area. Fragile and slow. Attacks land, sea and undersea targets.",
 "max_health":100,
 "build_metal_cost":320,
-"unit_types":["UNITTYPE_Bomber",
+"unit_types":["UNITTYPE_Custom58","UNITTYPE_Bomber",
 "UNITTYPE_Mobile",
 "UNITTYPE_Offense",
 "UNITTYPE_Air",

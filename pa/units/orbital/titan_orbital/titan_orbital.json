@@ -11,7 +11,7 @@
 "attachable":{"offsets":{"root":[0,
 0,
 0]}},
-"unit_types":["UNITTYPE_Mobile",
+"unit_types":["UNITTYPE_Custom58","UNITTYPE_Mobile",
 "UNITTYPE_Offense",
 "UNITTYPE_Orbital",
 "UNITTYPE_LaserPlatform",

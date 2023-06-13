@@ -13,7 +13,7 @@
 "attachable":{"offsets":{"root":[0,
 0,
 0]}},
-"unit_types":["UNITTYPE_Structure",
+"unit_types":["UNITTYPE_Custom58","UNITTYPE_Structure",
 "UNITTYPE_Orbital",
 "UNITTYPE_Defense",
 "UNITTYPE_OrbitalDefense",

@@ -7,7 +7,7 @@
 "mesh_bounds":[8,
 18,
 6],
-"unit_types":["UNITTYPE_Naval",
+"unit_types":["UNITTYPE_Custom58","UNITTYPE_Naval",
 "UNITTYPE_Mobile",
 "UNITTYPE_Offense",
 "UNITTYPE_Basic",

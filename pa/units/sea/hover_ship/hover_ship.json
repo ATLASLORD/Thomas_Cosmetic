@@ -5,7 +5,7 @@
 "max_health":2000,
 "spawn_layers":"WL_DeepWater",
 "armor_type":"AT_Hover",
-"unit_types":["UNITTYPE_Naval",
+"unit_types":["UNITTYPE_Custom58","UNITTYPE_Naval",
 "UNITTYPE_Mobile",
 "UNITTYPE_Offense",
 "UNITTYPE_Advanced",

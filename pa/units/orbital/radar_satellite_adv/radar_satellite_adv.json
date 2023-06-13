@@ -12,7 +12,7 @@
 0]}},
 "consumption":{"energy":9000},
 "energy_efficiency_requirement":0.9,
-"unit_types":["UNITTYPE_Mobile",
+"unit_types":["UNITTYPE_Custom58","UNITTYPE_Mobile",
 "UNITTYPE_Orbital",
 "UNITTYPE_Advanced",
 "UNITTYPE_Recon",

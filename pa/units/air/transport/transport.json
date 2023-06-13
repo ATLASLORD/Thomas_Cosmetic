@@ -7,7 +7,7 @@
 "attachable":{"offsets":{"root":[0,
 0,
 0]}},
-"unit_types":["UNITTYPE_Air",
+"unit_types":["UNITTYPE_Custom58","UNITTYPE_Air",
 "UNITTYPE_Mobile",
 "UNITTYPE_Transport",
 "UNITTYPE_Basic",

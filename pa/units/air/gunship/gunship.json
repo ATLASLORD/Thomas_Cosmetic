@@ -4,7 +4,7 @@
 "max_health":250,
 "build_metal_cost":800,
 "spawn_layers":"WL_Air",
-"unit_types":["UNITTYPE_Gunship",
+"unit_types":["UNITTYPE_Custom58","UNITTYPE_Gunship",
 "UNITTYPE_Air",
 "UNITTYPE_Mobile",
 "UNITTYPE_Offense",

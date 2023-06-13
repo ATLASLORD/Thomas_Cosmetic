@@ -8,7 +8,7 @@
 0,
 0]}},
 "production":{"energy":175},
-"unit_types":["UNITTYPE_Air",
+"unit_types":["UNITTYPE_Custom58","UNITTYPE_Air",
 "UNITTYPE_EnergyProduction",
 "UNITTYPE_Mobile",
 "UNITTYPE_Basic",
